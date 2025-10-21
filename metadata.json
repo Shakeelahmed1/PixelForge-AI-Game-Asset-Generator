@@ -1,0 +1,5 @@
+{
+  "name": "Aetherial Assets: AI Game Asset Synthesis Engine",
+  "description": "An AI-powered tool to synthesize high-fidelity, stylistically coherent, and game-engine-ready 2D assets like animated sprites, tilesets, and backgrounds from precise natural language descriptions.",
+  "requestFramePermissions": []
+}
